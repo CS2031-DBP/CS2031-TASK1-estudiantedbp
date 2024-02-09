@@ -9,6 +9,16 @@
       "comparison": "exact",
       "timeout": 10,
       "points": 2
+    },
+    {
+      "name": "Spring 2",
+      "setup": "mvn compile",
+      "run": "mvn test",
+      "input": null,
+      "output": null,
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
     }
   ]
 }
